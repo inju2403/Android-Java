@@ -1,5 +1,7 @@
-# Toehold Talk
-## Android Messenger App
+# 토홀드톡 (Android Messenger App)    
+## Project Description    
+     
+Socket IO를 이용한 안드로이드 메신저 앱
 
 ### 기능
 > 회원 가입, 로그인    
